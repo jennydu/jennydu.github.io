@@ -7,9 +7,9 @@
 }
 
 #header img {
-	width: 36%;
+	width: 48%;
 	height: auto;
-	margin-left: 32%;
+	margin-left: 26%;
 }
 
 .spacer {
@@ -19,8 +19,8 @@
 #navbar {
 	display: table;
 	table-layout: fixed;
-	width: 36%;
-	margin-left: 32%;
+	width: 48%;
+	margin-left: 26%;
 }
 
 #navbar > span {
